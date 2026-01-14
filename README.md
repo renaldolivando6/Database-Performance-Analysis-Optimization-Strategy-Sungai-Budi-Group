@@ -450,10 +450,10 @@ INCLUDE (Amount, Status);
 
 ## 📞 Contact & Portfolio
 
-**GitHub**: [Your GitHub Username]  
-**LinkedIn**: [Your LinkedIn Profile]  
-**Email**: [Your Email]  
-**Portfolio**: [Your Portfolio Website]
+**GitHub**: renaldolivando6
+**LinkedIn**: renaldolivando
+**Email**: renaldolivando6@gmail.com  
+**Portfolio**: dazytech.web.id
 
 ---
 
